@@ -5,7 +5,7 @@ font-size: 10px;
 .wrapper{
     height: 100vh;
     width: 100%;
-    background-image: url('/images/marsh.jpg');
+    background-image: url('images/marsh.jpg');
     background-size: cover;
 
 }
